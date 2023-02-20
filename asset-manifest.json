@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/marktran2.github.io/scrimba-trivia/static/css/main.47cafac8.css",
+    "main.js": "/marktran2.github.io/scrimba-trivia/static/js/main.c7949c88.js",
+    "static/js/787.dddbe7b4.chunk.js": "/marktran2.github.io/scrimba-trivia/static/js/787.dddbe7b4.chunk.js",
+    "index.html": "/marktran2.github.io/scrimba-trivia/index.html",
+    "main.47cafac8.css.map": "/marktran2.github.io/scrimba-trivia/static/css/main.47cafac8.css.map",
+    "main.c7949c88.js.map": "/marktran2.github.io/scrimba-trivia/static/js/main.c7949c88.js.map",
+    "787.dddbe7b4.chunk.js.map": "/marktran2.github.io/scrimba-trivia/static/js/787.dddbe7b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47cafac8.css",
+    "static/js/main.c7949c88.js"
+  ]
+}
