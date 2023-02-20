@@ -1,6 +1,6 @@
 {
+  "homepage": "marktran2.github.io/scrimba-trivia",
   "name": "trivia",
-  "homepage": "marktran2.github.io/scrimba-trivia,"
   "version": "0.1.0",
   "private": true,
   "dependencies": {
